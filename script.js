@@ -164,12 +164,18 @@ function initContactForm() {
     const calendarLinks = document.querySelectorAll('.calendar-link');
     calendarLinks.forEach(link => {
         link.addEventListener('click', function(e) {
-            e.preventDefault();
+            // Don't prevent default for external Calendly links
+            if (link.href && link.href.includes('calendly.com')) {
+                // Track calendar click and let it open normally
+                trackEvent('Calendar', 'Click', 'Calendly Executive Meeting');
+                return;
+            }
             
+            e.preventDefault();
             // Track calendar click
             trackEvent('Calendar', 'Click', 'Executive Meeting');
             
-            // In a real implementation, this would integrate with Calendly
+            // Show modal for other calendar links
             showCalendarModal();
         });
     });
@@ -464,8 +470,10 @@ function showCalendarModal() {
             • Strategic Planning Sessions (90 min)
         </div>
         <p style="color: #5a6c7d; margin-bottom: 2rem;">
-            <strong>Email:</strong> ramesh@example.com<br>
-            <strong>LinkedIn:</strong> linkedin.com/in/rameshnampelly
+            <strong>Email:</strong> rnampell9@gmail.com<br>
+            <strong>Phone:</strong> (+1) 408.636.3069<br>
+            <strong>LinkedIn:</strong> linkedin.com/in/rameshnampelly<br>
+            <strong>Calendar:</strong> <a href="https://calendly.com/rnampell9/30min" target="_blank" style="color: #ffd700; text-decoration: none;">calendly.com/rnampell9/30min</a>
         </p>
         <button onclick="this.closest('[style*=\"position: fixed\"]').remove()" 
                 style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 

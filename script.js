@@ -351,7 +351,7 @@ Senior Executive with 12+ years of leadership experience. VP-level Product Leade
 
 KEY ACHIEVEMENTS
 • P&L Management: Managed product portfolios with $10M+ ARR
-• Team Scaling: Successfully scaled teams from 5 to 50+ members
+• Team Scaling: Successfully scaled teams from 5 to 150+ members
 • Digital Transformation: Led enterprise transformation initiatives with measurable ROI
 • Product Portfolio: Led multiple product lines including developer tools and API platforms
 

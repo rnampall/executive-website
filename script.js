@@ -347,43 +347,39 @@ function generateExecutiveBrief() {
 EXECUTIVE BRIEF - Ramesh Nampelly
 
 LEADERSHIP PROFILE
-Engineering executive with 23+ years of experience leading global teams in cloud infrastructure, platform engineering, DevOps, SRE, and AI/ML innovations. Proven track record scaling organizations and driving product development for enterprise security leaders like Palo Alto Networks, Cisco, and Cohesity.
+Engineering executive with 23+ years scaling global teams and driving innovation at Palo Alto Networks, Cisco, and Cohesity. Proven leader in cloud infrastructure, AI/ML platforms, and cybersecurity with 12 patents portfolio.
 
 KEY ACHIEVEMENTS
-• Team Scaling: Scaled teams from 5 to 110+ at Cisco and ground up to 100+ at Palo Alto Networks
-• Platform Innovation: Built Garuda observability platform reducing costs by 75% with 99.9% SLA
-• Infrastructure Leadership: Developed GPU private cloud and MLOps platform for thousands of CPUs/GPUs
-• Cost Optimization: Created TestOnDemand platform cutting qualification time by 400%
-• Security Leadership: Acting CISO with SOC2 Type 1/2 certifications, 12 patents (5 issued, 7 pending)
+• Global Team Leadership: Scaled organizations from startup to 110+ engineers across four countries
+• Platform Innovation: 75% cost reduction and 400% performance improvements in enterprise platforms
+• Executive Recognition: Cisco CEO Award and Outstanding Engineering Leadership Award
+• Security Leadership: 12 patents (5 issued, 7 pending) and Acting CISO experience
+• Operational Excellence: 99.9% SLA achievement across global infrastructure
 
 CORE COMPETENCIES
-• Platform Engineering & Cloud Infrastructure
-• AI/ML Infrastructure & DevSecOps
-• Team Scaling & Global Leadership
+• Platform Engineering & AI/ML Infrastructure
+• Global Team Scaling & Leadership Development
+• Cloud Infrastructure & DevSecOps
 • Cost Optimization & Operational Excellence
-• Identity Security & Compliance
 • Digital Transformation Strategy
 
 COMPANY EXPERIENCE
-• Palo Alto Networks: Backend platform unification, Garuda observability, GPU private cloud
-• Cisco: DNAC Intent-Based Networking, 12K+ server automation, CEO Award recipient
-• Cohesity: TestOnDemand platform, dynamic provisioning, 39% cost reduction YoY
-• Witesand (acquired by Juniper): Acting CISO, IAM controls, chaos engineering
+• Palo Alto Networks: AI/ML infrastructure and platform engineering leadership
+• Cisco: Network automation and intent-based networking solutions
+• Cohesity: Cloud infrastructure and dynamic provisioning platforms
+• Advisory: Acting CISO and technical advisory positions
 
-EDUCATION & RECOGNITION
-• Bachelor of Engineering, Computer Science - JNTU Hyderabad
-• Cisco Outstanding Engineering Leadership Award (2018)
-• Cisco CEO Award (2017) - Chuck Robbins direct appreciation
-• 12 Patents: 5 issued (4 in identity security), 7 pending with USPTO
+RECOGNITION
+• Cisco CEO Award (2017) and Outstanding Engineering Leadership Award (2018)
+• 12 Patents Portfolio in identity security and cloud platforms
+• Bachelor of Engineering, Computer Science
 
 TARGET OPPORTUNITIES
 • Chief Technology Officer / VP Engineering roles
 • Chief Information Security Officer positions
 • Board advisor and technical advisory roles
-• Engineering leadership consulting engagements
 
 CONTACT
-Available for executive conversations on engineering leadership, platform engineering, and digital transformation.
 Email: rnampell9@gmail.com | Phone: (+1) 408.636.3069
 LinkedIn: linkedin.com/in/rameshnampelly | Calendar: calendly.com/rnampell9/30min
     `;

@@ -572,6 +572,17 @@ section {
     box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
 }
 
+.insight-card-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+.insight-card-link:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
 .insight-category {
     display: inline-block;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -600,6 +611,79 @@ section {
     align-items: center;
     font-size: 0.9rem;
     color: #718096;
+}
+
+.media-section {
+    margin: 3rem 0;
+}
+
+.media-section h3 {
+    color: #2c3e50;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.media-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.media-item {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 2rem;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+    border: 1px solid #e2e8f0;
+    transition: all 0.3s ease;
+}
+
+.media-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+}
+
+.media-icon {
+    width: 60px;
+    height: 60px;
+    background: #ff0000;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.media-icon i {
+    font-size: 1.5rem;
+    color: white;
+}
+
+.media-content h4 {
+    color: #2c3e50;
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+}
+
+.media-content p {
+    color: #5a6c7d;
+    margin-bottom: 1rem;
+    font-size: 0.95rem;
+}
+
+.media-link {
+    color: #667eea;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 0.9rem;
+}
+
+.media-link:hover {
+    text-decoration: underline;
 }
 
 .speaking-section {
@@ -892,12 +976,24 @@ section {
 
     .leadership-grid,
     .portfolio-grid,
-    .insights-grid {
+    .insights-grid,
+    .media-grid {
         grid-template-columns: 1fr;
     }
 
     .transformation-grid {
         grid-template-columns: 1fr;
+    }
+
+    .media-item {
+        flex-direction: column;
+        text-align: center;
+        gap: 1rem;
+    }
+
+    .media-icon {
+        width: 50px;
+        height: 50px;
     }
 
     .about-content {

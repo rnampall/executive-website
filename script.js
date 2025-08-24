@@ -365,7 +365,7 @@ CORE COMPETENCIES
 
 COMPANY EXPERIENCE
 • Palo Alto Networks: AI/ML infrastructure and platform engineering leadership
-• Cisco: Network automation and intent-based networking solutions
+• Cisco: Infrastructure, Network automation and intent-based networking solutions
 • Cohesity: Cloud infrastructure and dynamic provisioning platforms
 • Advisory: Acting CISO and technical advisory positions
 

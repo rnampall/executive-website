@@ -347,36 +347,45 @@ function generateExecutiveBrief() {
 EXECUTIVE BRIEF - Ramesh Nampelly
 
 LEADERSHIP PROFILE
-Senior Executive with 12+ years of leadership experience. VP-level Product Leader with P&L responsibility and proven track record scaling teams from startup to enterprise environments.
+Engineering executive with 23+ years of experience leading global teams in cloud infrastructure, platform engineering, DevOps, SRE, and AI/ML innovations. Proven track record scaling organizations and driving product development for enterprise security leaders like Palo Alto Networks, Cisco, and Cohesity.
 
 KEY ACHIEVEMENTS
-• P&L Management: Managed product portfolios with $10M+ ARR
-• Team Scaling: Successfully scaled teams from 5 to 150+ members
-• Digital Transformation: Led enterprise transformation initiatives with measurable ROI
-• Product Portfolio: Led multiple product lines including developer tools and API platforms
+• Team Scaling: Scaled teams from 5 to 110+ at Cisco and ground up to 100+ at Palo Alto Networks
+• Platform Innovation: Built Garuda observability platform reducing costs by 75% with 99.9% SLA
+• Infrastructure Leadership: Developed GPU private cloud and MLOps platform for thousands of CPUs/GPUs
+• Cost Optimization: Created TestOnDemand platform cutting qualification time by 400%
+• Security Leadership: Acting CISO with SOC2 Type 1/2 certifications, 12 patents (5 issued, 7 pending)
 
 CORE COMPETENCIES
-• Executive Leadership & P&L Management
+• Platform Engineering & Cloud Infrastructure
+• AI/ML Infrastructure & DevSecOps
+• Team Scaling & Global Leadership
+• Cost Optimization & Operational Excellence
+• Identity Security & Compliance
 • Digital Transformation Strategy
-• Product Portfolio Management
-• Cross-functional Team Leadership
-• Developer Tools & API Platforms
-• Enterprise Sales & Go-to-Market
 
-INDUSTRY EXPERIENCE
-• Enterprise Software
-• Cloud Infrastructure
-• Developer Tools & APIs
-• Network Management Solutions
+COMPANY EXPERIENCE
+• Palo Alto Networks: Backend platform unification, Garuda observability, GPU private cloud
+• Cisco: DNAC Intent-Based Networking, 12K+ server automation, CEO Award recipient
+• Cohesity: TestOnDemand platform, dynamic provisioning, 39% cost reduction YoY
+• Witesand (acquired by Juniper): Acting CISO, IAM controls, chaos engineering
+
+EDUCATION & RECOGNITION
+• Bachelor of Engineering, Computer Science - JNTU Hyderabad
+• Cisco Outstanding Engineering Leadership Award (2018)
+• Cisco CEO Award (2017) - Chuck Robbins direct appreciation
+• 12 Patents: 5 issued (4 in identity security), 7 pending with USPTO
 
 TARGET OPPORTUNITIES
-• CEO / COO positions in technology companies
-• VP Product / Chief Product Officer roles
-• Board advisor and investor positions
-• Strategic consulting engagements
+• Chief Technology Officer / VP Engineering roles
+• Chief Information Security Officer positions
+• Board advisor and technical advisory roles
+• Engineering leadership consulting engagements
 
 CONTACT
-Available for executive conversations and strategic discussions.
+Available for executive conversations on engineering leadership, platform engineering, and digital transformation.
+Email: rnampell9@gmail.com | Phone: (+1) 408.636.3069
+LinkedIn: linkedin.com/in/rameshnampelly | Calendar: calendly.com/rnampell9/30min
     `;
     
     // Create and download text file (in real implementation, this would be a PDF)
